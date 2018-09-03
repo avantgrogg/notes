@@ -1,0 +1,8 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "A simple note taking app",
+  "main": "index.js",
+  "author": "Doug <dgrogg@bonobos.com>",
+  "license": "MIT"
+}
